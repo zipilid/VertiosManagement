@@ -1,0 +1,174 @@
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\roslyn\csc.exe
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\roslyn\System.Collections.Immutable.dll
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\roslyn\vbc.exe
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\roslyn\VBCSCompiler.exe
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\roslyn\VBCSCompiler.exe.config
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\angular2mercas.dll.config
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\angular2mercas.dll
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\angular2mercas.pdb
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\obj\Debug\angular2mercas.dll
+c:\users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\obj\Debug\angular2mercas.pdb
+C:\Users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\obj\Debug\angular2mercas.csprojResolveAssemblyReference.cache
+C:\Users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\Newtonsoft.Json.dll
+C:\Users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\System.Net.Http.Formatting.dll
+C:\Users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\System.Web.Http.dll
+C:\Users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\System.Web.Http.WebHost.dll
+C:\Users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\Newtonsoft.Json.xml
+C:\Users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\System.Net.Http.Formatting.xml
+C:\Users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\System.Web.Http.xml
+C:\Users\shlomo\documents\visual studio 2015\Projects\angular2mercas\angular2mercas\bin\System.Web.Http.WebHost.xml
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\roslyn\csc.exe
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\roslyn\vbc.exe
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\roslyn\VBCSCompiler.exe
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\angular2mercas.dll.config
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\angular2mercas.dll
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\angular2mercas.pdb
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\Newtonsoft.Json.dll
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\System.Net.Http.Formatting.dll
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\System.Web.Http.dll
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\System.Web.Http.WebHost.dll
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\Newtonsoft.Json.xml
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\System.Net.Http.Formatting.xml
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\System.Web.Http.xml
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\bin\System.Web.Http.WebHost.xml
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\obj\Debug\angular2mercas.csprojResolveAssemblyReference.cache
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\obj\Debug\angular2mercas.dll
+C:\Users\shlomo\Documents\Visual Studio 2015\Projects\angular2mercas\1\angular2mercas1\angular2mercas\obj\Debug\angular2mercas.pdb
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\roslyn\csc.exe
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\roslyn\vbc.exe
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\roslyn\VBCSCompiler.exe
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\angular2mercas.dll.config
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\angular2mercas.dll
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\angular2mercas.pdb
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\Newtonsoft.Json.dll
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\System.Net.Http.Formatting.dll
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\System.Web.Http.dll
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\System.Web.Http.WebHost.dll
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\Newtonsoft.Json.xml
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\System.Net.Http.Formatting.xml
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\System.Web.Http.xml
+C:\Users\shlomo\Desktop\eus\angular2mercas\bin\System.Web.Http.WebHost.xml
+C:\Users\shlomo\Desktop\eus\angular2mercas\obj\Debug\angular2mercas.csprojResolveAssemblyReference.cache
+C:\Users\shlomo\Desktop\eus\angular2mercas\obj\Debug\angular2mercas.dll
+C:\Users\shlomo\Desktop\eus\angular2mercas\obj\Debug\angular2mercas.pdb
+C:\Users\User\Downloads\קוד\angular2mercas\obj\Debug\angular2mercas.dll
+C:\Users\User\Downloads\קוד\angular2mercas\obj\Debug\angular2mercas.pdb
+C:\Users\User\Downloads\קוד\angular2mercas\bin\roslyn\csc.exe
+C:\Users\User\Downloads\קוד\angular2mercas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\קוד\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\קוד\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\קוד\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\קוד\angular2mercas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\קוד\angular2mercas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\קוד\angular2mercas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\קוד\angular2mercas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\קוד\angular2mercas\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\קוד\angular2mercas\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\קוד\angular2mercas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\קוד\angular2mercas\bin\angular2mercas.dll.config
+C:\Users\User\Downloads\קוד\angular2mercas\bin\angular2mercas.dll
+C:\Users\User\Downloads\קוד\angular2mercas\bin\angular2mercas.pdb
+C:\Users\User\Downloads\קוד\angular2mercas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\קוד\angular2mercas\bin\Newtonsoft.Json.dll
+C:\Users\User\Downloads\קוד\angular2mercas\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Downloads\קוד\angular2mercas\bin\System.Web.Http.dll
+C:\Users\User\Downloads\קוד\angular2mercas\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Downloads\קוד\angular2mercas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\קוד\angular2mercas\bin\Newtonsoft.Json.xml
+C:\Users\User\Downloads\קוד\angular2mercas\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Downloads\קוד\angular2mercas\bin\System.Web.Http.xml
+C:\Users\User\Downloads\קוד\angular2mercas\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Downloads\קוד\angular2mercas\obj\Debug\angular2mercas.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\חדש\angular2mercas\bin\roslyn\csc.exe
+C:\Users\User\Desktop\חדש\angular2mercas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\חדש\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\חדש\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\חדש\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\חדש\angular2mercas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\חדש\angular2mercas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\חדש\angular2mercas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\חדש\angular2mercas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\חדש\angular2mercas\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\חדש\angular2mercas\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\חדש\angular2mercas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\חדש\angular2mercas\bin\angular2mercas.dll.config
+C:\Users\User\Desktop\חדש\angular2mercas\bin\angular2mercas.dll
+C:\Users\User\Desktop\חדש\angular2mercas\bin\angular2mercas.pdb
+C:\Users\User\Desktop\חדש\angular2mercas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\חדש\angular2mercas\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\חדש\angular2mercas\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\חדש\angular2mercas\bin\System.Web.Http.dll
+C:\Users\User\Desktop\חדש\angular2mercas\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\חדש\angular2mercas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\חדש\angular2mercas\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\חדש\angular2mercas\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\חדש\angular2mercas\bin\System.Web.Http.xml
+C:\Users\User\Desktop\חדש\angular2mercas\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\חדש\angular2mercas\obj\Debug\angular2mercas.dll
+C:\Users\User\Desktop\חדש\angular2mercas\obj\Debug\angular2mercas.pdb
+C:\Users\User\Desktop\חדש\angular2mercas\bin\System.Web.Cors.dll
+C:\Users\User\Desktop\חדש\angular2mercas\bin\System.Web.Http.Cors.dll
+C:\Users\User\Desktop\חדש\angular2mercas\bin\System.Web.Http.Cors.xml
+C:\Users\User\Desktop\חדש\angular2mercas\obj\Debug\angular2mercas.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\angular2mercas.dll.config
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\angular2mercas.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\angular2mercas.pdb
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\obj\Debug\angular2mercas.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\obj\Debug\angular2mercas.dll
+C:\Users\user1\Desktop\angular cli\חדש\angular2mercas\obj\Debug\angular2mercas.pdb

@@ -1,0 +1,12 @@
+<md-card class="demo-card demo-basic">
+	<md-card-content>
+		<h3>Add</h3>
+		<form #addForm="ngForm">
+			<app-vertion [vertion]="vertion"></app-vertion>
+			<div class="button-row">
+				<button md-raised-button color="primary" (click)="save()" [disabled]="!addForm.form.valid">Save
+    </button>
+			</div>
+		</form>
+	</md-card-content>
+</md-card>

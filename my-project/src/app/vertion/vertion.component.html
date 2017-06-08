@@ -1,0 +1,21 @@
+<md-input-container class="fullWidth">
+  <input required mdInput placeholder="vertion description" name="vertion" [(ngModel)]="vertion.name">
+</md-input-container>
+<md-input-container>
+  <input mdInput required [mdDatepicker]="picker" name="date" [(ngModel)]="vertion.creationTime" placeholder="Choose a date">
+  <button mdSuffix [mdDatepickerToggle]="picker"></button>
+</md-input-container>
+<md-datepicker #picker></md-datepicker>
+<md-card class="fullWidth" *ngFor="let feature of vertion.featureList">
+  <md-card-content>
+    <md-input-container>
+      <input mdInput required placeholder="feature description" [name]="'feature'+feature.featureID" [(ngModel)]="feature.description">
+    </md-input-container>
+    <button md-raised-button (click)="remove(feature)">Delete
+				</button>
+  </md-card-content>
+</md-card>
+<div class="button-row">
+  <button md-raised-button color="primary" (click)="add()">Add Feature
+    </button>
+</div>

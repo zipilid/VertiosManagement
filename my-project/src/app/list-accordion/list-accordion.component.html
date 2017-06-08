@@ -1,0 +1,7 @@
+{{vertion.name}} {{vertion.creationTime | date:'dd/MM/yyyy'}}
+<i type="button" [class]="!showMe?'glyphicon glyphicon-plus':'glyphicon glyphicon-minus'" (click)="showMe=!showMe"></i>
+<div *ngIf="showMe">
+	<div class="list-group-item" *ngFor="let feature of vertion.featureList">
+		<div class="input-group">{{feature.description}}</div>
+	</div>
+</div>

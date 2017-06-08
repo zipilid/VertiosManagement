@@ -1,0 +1,23 @@
+<md-card class="demo-card demo-basic">
+  <md-card-content>
+    <md-input-container>
+      <input mdInput placeholder="Filter By Vertion Name" (ngModelChange)="applyPipe()" [(ngModel)]="filterService.vertionName">
+    </md-input-container>
+    <md-input-container>
+      <input mdInput placeholder="Filter By Feature Name" (ngModelChange)="applyPipe()" [(ngModel)]="filterService.featureName">
+    </md-input-container>
+    <md-input-container>
+      <input mdInput [mdDatepicker]="picker" name="date" (ngModelChange)="applyPipe()" [(ngModel)]="filterService.date" placeholder="Filter By Date">
+      <button mdSuffix [mdDatepickerToggle]="picker"></button>
+    </md-input-container>
+    <md-datepicker #picker></md-datepicker>
+    <md-list *ngFor="let vertion of (vertionsList | filter)" (click)="onSelect(vertion.vertionID)" class="half-width">
+      <h3 md-subheader>{{vertion.name}} {{vertion.creationTime | date:'dd/MM/yyyy'}}</h3>
+      <md-list-item *ngFor="let feature of (vertion.featureList|featureFilter)" (click)="onSelect(feature.vertionID)">
+        <md-icon md-list-icon>folder</md-icon>
+        <p md-line> {{feature.description}}</p>
+      </md-list-item>
+      <md-divider></md-divider>
+    </md-list>
+  </md-card-content>
+</md-card>

@@ -1,0 +1,17 @@
+<md-sidenav-container class="demo-root" fullscreen>
+   
+    <md-sidenav style="color: #673ab7 " #start mode="side" opened="true">
+        <md-nav-list>
+            <a md-list-item routerLinkActive="active" routerLink="/list">List</a>
+            <a md-list-item routerLinkActive="active" routerLink="/add">Add</a>
+        </md-nav-list>
+    </md-sidenav>
+        <md-card class="demo-card demo-basic">
+            <md-card-content>
+                <app-dialog></app-dialog>
+            </md-card-content>
+        </md-card>
+        <div style="margin: 30px ">
+            <router-outlet></router-outlet>
+        </div>
+</md-sidenav-container>

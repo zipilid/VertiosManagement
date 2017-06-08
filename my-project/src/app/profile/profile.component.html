@@ -1,0 +1,17 @@
+<md-card class="demo-card demo-basic">
+	<md-card-content>
+	<h3>My Profile</h3>
+		<form #addForm="ngForm">
+			<md-input-container class="fullWidth">
+				<input required mdInput placeholder="username" name="username" [(ngModel)]="user.name">
+			</md-input-container>
+			<md-input-container class="fullWidth">
+				<input required mdInput placeholder="password" name="username" [(ngModel)]="user.password">
+			</md-input-container>
+			<div class="button-row">
+				<button md-raised-button color="primary" (click)="save()">Save
+    </button>
+			</div>
+		</form>
+	</md-card-content>
+</md-card>

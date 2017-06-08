@@ -1,0 +1,29 @@
+<md-toolbar color="primary">
+  <!--<button md-icon-button>
+        <md-icon class="md-24">menu</md-icon>
+      </button>-->
+      <button md-icon-button [mdMenuTriggerFor]="menu">
+  <md-icon>more_vert</md-icon>
+</button>
+<md-menu #menu="mdMenu">
+  <button md-menu-item [disabled]="userService.user" (click)="openDialog()">
+    <md-icon>Login</md-icon>
+    <span>LogIn</span>
+  </button>
+  <button md-menu-item [disabled]="!userService.user" (click)="logout()">
+    <md-icon>Logout</md-icon>
+    <span>LogOut</span>
+  </button>
+  <button md-menu-item routerLink="/profile" [disabled]="!userService.user" (click)="logout()">
+    <md-icon>menu</md-icon>
+    <span>Profile</span>
+  </button>
+  <!--<button md-menu-item>
+    <md-icon>notifications_off</md-icon>
+    <span>Disable alerts</span>
+  </button>-->
+</md-menu>
+  <button md-icon-button>
+        <md-icon class="md-24">logout</md-icon>
+      </button>
+</md-toolbar>
